@@ -32,7 +32,7 @@ namespace museum
 				// Varna för brand
 				if (thereIsAFire)
 				{
-					Console.WriteLine("🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥");
+					Console.WriteLine("Det brinner!");
 					triesLeftForEscaping -= 1;
 
 					if (triesLeftForEscaping <= 0)
