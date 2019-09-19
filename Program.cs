@@ -159,6 +159,7 @@ namespace museum
 				Console.WriteLine("X: " + x + "(" + previousX +")");
 				Console.WriteLine("Y: " + y + "(" + previousY +")");
 				Console.WriteLine("Brann det?: " + thereIsAFire);
+				Console.WriteLine("-----------------");
 			}
 		}
 	}
